@@ -1,0 +1,3 @@
+pdfplumber transformers langchain grok
+langchain-community
+langchain-groq
